@@ -1,0 +1,3 @@
+[submodule "chapters-writing-skills"]
+	path = chapters-writing-skills
+	url = git@gitlab.stardustgod.com:ai/chapters-writing-skills.git
